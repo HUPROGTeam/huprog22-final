@@ -8,7 +8,7 @@
 
 içermektedir.
 
-- Bir double stroke'tan sonra aynı el ile single / double stroke yapılamaz. (Aynı el ile yapılan ardışık iki single stroke (LL veya RR) double stroke olarak değerlendirilecektir)
+- Atağın herhangi bir ardışık dizisinde $L$ ile $R$ arasındaki fark en fazla 2 olacaktır. 
 
 Transkript işlemi çok basit olduğundan ötürü Akın, Özgün'e daha ilginç bir soru sormak ister. Bahsedilen kurallara göre oluşturulabilecek $N$ (inceledikleri ataktaki vuruş sayısı) vuruşluk atakları $L$ öncelikli olacak şekilde sıraladıktan sonra, transkript ettikleri atağın kaçıncı sırada olduğunu bulmasını istemektedir. Özgün'e cevabı bulmasında yardım edin.
 
