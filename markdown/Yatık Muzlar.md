@@ -26,6 +26,7 @@ Serhat'ın tüm tezgahı en az kaç sayıda değiştirme ( swap ) işlemi yapara
 
 Not : İlk durumda tezgahtaki toplam sola yatık muz sayısı, sağa yatık muz sayısına eşit olarak verilecektir.
 Not II : Değiştirme ( swap ) işlemi sadece meyvelerin yerini değiştirirken olmaktadır. Elmayı ya da armutu takas etmek değiştirme ( swap ) sayılmıyor.
+Not III : Swap operasyonlarını bitirmeden herhangi bir takas (trade) operasyonu yapamazsınız.
 
 ## Input Format
 Yalnızca tek satır string $S$'ten oluşmaktadır. Bu satırda sırasıyla meyvelerin tezgahtaki yerleri verilmektedir. $S$ yalnızca belirtilen karakterlerden oluşmaktadır :
