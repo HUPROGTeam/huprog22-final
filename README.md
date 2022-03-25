@@ -10,6 +10,6 @@
 - [Dairesel Turing Makinesi](/pdf/dairesel-turing-makinesi.pdf)
 - [Stajyer Alımı](/pdf/stajyer-alimi.pdf)
 - [Deniz Kabuğu](/pdf/deniz-kabugu.pdf)
-- [Terence Fletcher](/pdf/deniz-kabugu.pdf)
+- [Terence Fletcher](/pdf/terence-fletcher.pdf)
 - [Düzmet'in Çubukları](/pdf/duzmetin-cubuklari.pdf)
 - [Hesabı Kim Ödeyecek](/pdf/hesabi-kim-odeyecek.pdf)
