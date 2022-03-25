@@ -6,7 +6,7 @@ Ortalama fiyat hesabı **her bir satıcı için** şöyle hesaplanır :
 
 -   O satıcıdaki her bir ürün için :
     -   Eğer satıcının elindeki ürün miktarı Kara Bakkal'ın ihtiyacı olan mal miktarı'ndan az veya eşit ise **satıcının elindeki miktar** ile satıcının o ürüne biçtiği fiyat çarpılır.
-    -   Eğer satının elindeki ürün miktarı Kara Bakkal'ın ihtiyacı olan mal miktarı'ndan fazla ise Kara Bakkal'ın ihtiyacı olduğu miktar ile satıcının ürün için biçtiği fiyat çarpılır. Bu işlem **sadece Kara Bakkal'ın ihtiyacı olan ürünler** için yapılır ve tüm bu çarpımlar toplanır. Sonunda da bu toplam **Kara Bakkal'ın ihtiyacı olan ürün sayısına** bölünür. Böylece o satıcının ortalama fiyat hesabı bulunmuş olur.
+    -   Eğer satının elindeki ürün miktarı Kara Bakkal'ın ihtiyacı olan mal miktarı'ndan fazla ise Kara Bakkal'ın ihtiyacı olduğu miktar ile satıcının ürün için biçtiği fiyat çarpılır. Bu işlem **sadece Kara Bakkal'ın ihtiyacı olan ürünler** için yapılır ve tüm bu çarpımlar toplanır. Sonunda da bu toplam **Kara Bakkal'ın ihtiyacı olan ürün miktarına** bölünür. Böylece o satıcının ortalama fiyat hesabı bulunmuş olur.
 -   Eğer satıcıdaki bir malın sayısı ihtiyaç olandan daha az ise, **satıcıdaki miktar** kadar alır ve kalan ihtiyaçlarını tamamlamak için başka satıcılara yönlenir.
 
 Listedeki tüm malzemeler alındıktan sonra Kara Bakkal'ın ne kadar bütçesi kaldığını bulunuz.
